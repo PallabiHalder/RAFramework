@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Feb 02 00:31:24 IST 2024","Fri Feb 02 00:31:27 IST 2024","3301","All Test Suite","C:/Users/halde/IdeaProjects/RAFramework/src/test/java/com/TheTestingAcademy/misc/TestFile.java","com.TheTestingAcademy.misc.TestFile","com.TheTestingAcademy.misc.TestFile","PostRequest","PostRequest",""
